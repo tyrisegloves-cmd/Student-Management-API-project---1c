@@ -204,15 +204,7 @@ Authorization: Bearer <token>
 - Prevent unauthorized access to student records
 - Use environment variables for secrets and configuration
 
-## Future Enhancements
 
-- Student dashboard and analytics
-- PDF report generation
-- Export student records to CSV/Excel
-- Email notifications for attendance and results
-- Role-based admin access
-- Payment and fee management module
-- Multi-school or multi-campus support
 
 ## Contributing
 
@@ -228,8 +220,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name / Team Name
+Group 1C / BD Backend
 
 ## Contact
 
-For questions or collaboration, reach out at: your.email@example.com
+For questions or collaboration, reach out on the whatsapp group 
